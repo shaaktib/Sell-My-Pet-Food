@@ -1,0 +1,31 @@
+
+
+
+
+
+
+
+
+compact, 3
+ergonomic, 4
+stylish, 4
+high-quality, 5
+long-lasting, 5
+convenient, 4
+affordable, 4
+BPA-free, 5
+innovative, 5
+spill-resistant, 4
+versatile, 3
+great-design, 4
+efficient, 4
+perfect-size, 5
+cold-retention, 5
+hot-retention, 5
+smooth-finish, 4
+leaks, -5
+cheap, -4
+flimsy, -4
+hard-to-clean, -4
+bulky, -3
+uncomfortable, -3
